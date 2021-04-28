@@ -1,0 +1,8 @@
+package inheritance;
+
+public class CorporateCustomer {
+
+	String companyName;
+	String taxNumber;
+
+}

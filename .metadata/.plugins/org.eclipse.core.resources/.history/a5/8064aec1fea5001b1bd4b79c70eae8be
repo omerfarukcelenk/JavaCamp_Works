@@ -1,0 +1,16 @@
+
+public class CampCard {
+	
+	public CampCard
+	
+	int id;
+	String campeEplanation;
+	String campInstructor;
+	int percent;
+	
+	
+	
+	
+	
+	
+}

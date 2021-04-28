@@ -1,0 +1,7 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oopIntro.Product"><rhs name\="oopIntro.Product"/></lhs><lhs name\="oopIntro.ProductManager"><rhs name\="oopIntro.ProductManager"/></lhs><lhs name\="CampCard"><rhs name\="CampCard"/></lhs><lhs name\="CampCardManager"><rhs name\="CampCardManager"/></lhs><lhs name\="inheritance.IndividualCustomer"><rhs name\="inheritance.IndividualCustomer"/></lhs><lhs name\="inheritance.CorporateCustomer"><rhs name\="inheritance.CorporateCustomer"/></lhs><lhs name\="inheritance.CustomerManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance.Customer"><rhs name\="inheritance.Sendika"/></lhs><lhs name\="inheritance.Sendika"><rhs name\="inheritance.Sendika"/></lhs><lhs name\="LogManager"><rhs name\="LogManager"/></lhs><lhs name\="Logger"><rhs name\="DatabaseLogger"/><rhs name\="EmailLogger"/></lhs><lhs name\="DatabaseLogger"><rhs name\="DatabaseLogger"/></lhs><lhs name\="CustomerManager"><rhs name\="CustomerManager"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

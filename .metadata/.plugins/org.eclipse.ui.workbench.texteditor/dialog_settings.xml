@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="&#x0D;&#x0A;&#x09;&#x09;for (Product product : products) {&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.id);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.name);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.unitPrice);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.Detail);&#x0D;&#x0A;&#x0D;&#x0A;&#x09;&#x09;}"/>
+		<list key="findhistory">
+			<item value="&#x0D;&#x0A;&#x09;&#x09;for (Product product : products) {&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.id);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.name);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.unitPrice);&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(product.Detail);&#x0D;&#x0A;&#x0D;&#x0A;&#x09;&#x09;}"/>
+			<item value="for (Product product : products) {"/>
+		</list>
+	</section>
+</section>
